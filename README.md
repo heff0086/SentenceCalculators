@@ -1,0 +1,2 @@
+# SentenceCalculators
+Initially just containing SentenceAdjustmentElgibilityCalculator.
