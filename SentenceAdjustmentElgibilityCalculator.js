@@ -38,4 +38,4 @@ if (release_elgibility_date.month >= 12) {
     release_elgibility_date.month = release_elgibility_date.month - release_elgibility_date.year * 12;
 }
 
-alert("This prisoner will be released "+ release_elgibility_date.month +"/" + release_elgibility_date.day +"/" + release_elgibility_date.year);
+alert("SENTENCE ADJUSTMENT ELIGIBILITY DATE = "+ release_elgibility_date.year +" - " + release_elgibility_date.month +" - " + release_elgibility_date.day);
